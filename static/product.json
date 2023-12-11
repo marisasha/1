@@ -1,0 +1,12 @@
+{
+    "data":
+    [
+        
+            {"id":0,"name":"WATER-REPELLENT QUILTED JACKET","sex":"Man","kind":"Clothes","type":"JACKET","price":"22.000","color":"Black","img1":"https://images.hugoboss.com/is/image/boss/hbeu50481548_001_300?$large$=&fit=crop,1&align=1,1&lastModified=1701793613000&wid=620&fmt=webp","img2":"https://images.hugoboss.com/is/image/boss/hbeu50481548_001_360?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1701793613000&wid=1200&hei=1818&fmt=webp"},
+            {"id":1,"name":"TROUSERS OF A STANDARD CUT","sex":"Man","kind":"Clothes","type":"TROUSERS","price":"14.000","color":"Dark blue","img1":"https://images.hugoboss.com/is/image/boss/hbeu50480544_480_350?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1701961361000&wid=1200&hei=1818&fmt=webp","img2":"https://images.hugoboss.com/is/image/boss/hbeu50480544_480_360?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1701961361000&wid=1200&hei=1818&fmt=webp"},
+            {"id":2,"name":"FITTED SHIRT","sex":"Man","kind":"Clothes","type":"SHIRT","price":"6.000","color":"Ocean","img1":"https://images.hugoboss.com/is/image/boss/hbeu50479915_450_340?$large$=&fit=crop,1&align=1,1&lastModified=1701796180000&wid=620&fmt=webp","img2":"https://images.hugoboss.com/is/image/boss/hbeu50479915_450_360?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1701796180000&wid=1200&hei=1818&fmt=webp"},
+            {"id":3,"name":"LEATHER DERBY SHOES","sex":"Man","kind":"Shoes","type":"SHOES","price":"10.000","color":"Black","img1":"https://images.hugoboss.com/is/image/boss/hbeu50499740_001_200?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1701793005000&wid=1200&hei=1818&fmt=webp,","img2":"https://images.hugoboss.com/is/image/boss/hbeu50499740_001_210?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1701793005000&wid=1200&hei=1818&fmt=webp"}
+        
+    ]
+
+}
